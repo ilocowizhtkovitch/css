@@ -1,5 +1,11 @@
 # @primer/css
 
+## 20.2.0
+
+### Minor Changes
+
+- [#2087](https://github.com/primer/css/pull/2087) [`8354de5c`](https://github.com/primer/css/commit/8354de5c5eeb60e447712c04e25c2ef370206488) Thanks [@vdepizzol](https://github.com/vdepizzol)! - Changing `PageLayout--isPaneSticky` to `PageLayout--sticky`.
+
 ## 20.1.1
 
 ### Patch Changes
